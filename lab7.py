@@ -12,4 +12,3 @@ def centroid(p1x,p1y,p2x,p2y,p3x,p3y,m1,m2,m3):
 #istediğin yerde durmak için kırmızı noktayı işaretle ve debug file ile kodu çalıştır
 #cx= p1xm1+p2xm2+p3xm3/m1+m2+m3
 # [0,:] birinci satır anlamına geliyor
-result= centroid(1,2,3,4,5,1,1,1,1)
